@@ -1,0 +1,18 @@
+C:\Users\Alien\Desktop\friis\friis\bin\Debug\friis.exe.config
+C:\Users\Alien\Desktop\friis\friis\bin\Debug\friis.exe
+C:\Users\Alien\Desktop\friis\friis\bin\Debug\friis.pdb
+C:\Users\Alien\Desktop\friis\friis\obj\Debug\friis.csprojResolveAssemblyReference.cache
+C:\Users\Alien\Desktop\friis\friis\obj\Debug\friis.Form1.resources
+C:\Users\Alien\Desktop\friis\friis\obj\Debug\friis.Properties.Resources.resources
+C:\Users\Alien\Desktop\friis\friis\obj\Debug\friis.csproj.GenerateResource.Cache
+C:\Users\Alien\Desktop\friis\friis\obj\Debug\friis.exe
+C:\Users\Alien\Desktop\friis\friis\obj\Debug\friis.pdb
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\obj\Debug\friis.Form1.resources
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\obj\Debug\friis.Properties.Resources.resources
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\obj\Debug\friis.csproj.GenerateResource.Cache
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\bin\Debug\friis.exe.config
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\bin\Debug\friis.exe
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\bin\Debug\friis.pdb
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\obj\Debug\friis.exe
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\obj\Debug\friis.pdb
+C:\Users\Alien\Documents\WIZUT\INF S2 - semestr III\Technologie Bezprzewodowe\friis\friis\obj\Debug\friis.csprojResolveAssemblyReference.cache
